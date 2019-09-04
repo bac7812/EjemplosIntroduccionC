@@ -1,0 +1,7 @@
+C:\Users\dam215\Desktop\CURSO 2017-2018\ACDA\Unidad0\Ejercicios\Ejercicio3\Ejercicio3\bin\Debug\Ejercicio3.exe.config
+C:\Users\dam215\Desktop\CURSO 2017-2018\ACDA\Unidad0\Ejercicios\Ejercicio3\Ejercicio3\bin\Debug\Ejercicio3.exe
+C:\Users\dam215\Desktop\CURSO 2017-2018\ACDA\Unidad0\Ejercicios\Ejercicio3\Ejercicio3\bin\Debug\Ejercicio3.pdb
+C:\Users\dam215\Desktop\CURSO 2017-2018\ACDA\Unidad0\Ejercicios\Ejercicio3\Ejercicio3\obj\Debug\Ejercicio3.csprojResolveAssemblyReference.cache
+C:\Users\dam215\Desktop\CURSO 2017-2018\ACDA\Unidad0\Ejercicios\Ejercicio3\Ejercicio3\obj\Debug\Ejercicio3.csproj.CoreCompileInputs.cache
+C:\Users\dam215\Desktop\CURSO 2017-2018\ACDA\Unidad0\Ejercicios\Ejercicio3\Ejercicio3\obj\Debug\Ejercicio3.exe
+C:\Users\dam215\Desktop\CURSO 2017-2018\ACDA\Unidad0\Ejercicios\Ejercicio3\Ejercicio3\obj\Debug\Ejercicio3.pdb

@@ -1,0 +1,15 @@
+D:\Mio\CURSO\instituto\DAM\2DAM\ACDA\Unidad0\Ejercicios\Ejercicio10\Ejercicio10\obj\Debug\Ejercicio10.csprojResolveAssemblyReference.cache
+D:\Mio\CURSO\instituto\DAM\2DAM\ACDA\Unidad0\Ejercicios\Ejercicio10\Ejercicio10\obj\Debug\MainWindow.g.cs
+D:\Mio\CURSO\instituto\DAM\2DAM\ACDA\Unidad0\Ejercicios\Ejercicio10\Ejercicio10\obj\Debug\App.g.cs
+D:\Mio\CURSO\instituto\DAM\2DAM\ACDA\Unidad0\Ejercicios\Ejercicio10\Ejercicio10\obj\Debug\Ejercicio10_MarkupCompile.cache
+D:\Mio\CURSO\instituto\DAM\2DAM\ACDA\Unidad0\Ejercicios\Ejercicio10\Ejercicio10\obj\Debug\Ejercicio10_MarkupCompile.lref
+D:\Mio\CURSO\instituto\DAM\2DAM\ACDA\Unidad0\Ejercicios\Ejercicio10\Ejercicio10\bin\Debug\Ejercicio10.exe.config
+D:\Mio\CURSO\instituto\DAM\2DAM\ACDA\Unidad0\Ejercicios\Ejercicio10\Ejercicio10\bin\Debug\Ejercicio10.exe
+D:\Mio\CURSO\instituto\DAM\2DAM\ACDA\Unidad0\Ejercicios\Ejercicio10\Ejercicio10\bin\Debug\Ejercicio10.pdb
+D:\Mio\CURSO\instituto\DAM\2DAM\ACDA\Unidad0\Ejercicios\Ejercicio10\Ejercicio10\obj\Debug\MainWindow.baml
+D:\Mio\CURSO\instituto\DAM\2DAM\ACDA\Unidad0\Ejercicios\Ejercicio10\Ejercicio10\obj\Debug\Ejercicio10.g.resources
+D:\Mio\CURSO\instituto\DAM\2DAM\ACDA\Unidad0\Ejercicios\Ejercicio10\Ejercicio10\obj\Debug\Ejercicio10.Properties.Resources.resources
+D:\Mio\CURSO\instituto\DAM\2DAM\ACDA\Unidad0\Ejercicios\Ejercicio10\Ejercicio10\obj\Debug\Ejercicio10.csproj.GenerateResource.Cache
+D:\Mio\CURSO\instituto\DAM\2DAM\ACDA\Unidad0\Ejercicios\Ejercicio10\Ejercicio10\obj\Debug\Ejercicio10.csproj.CoreCompileInputs.cache
+D:\Mio\CURSO\instituto\DAM\2DAM\ACDA\Unidad0\Ejercicios\Ejercicio10\Ejercicio10\obj\Debug\Ejercicio10.exe
+D:\Mio\CURSO\instituto\DAM\2DAM\ACDA\Unidad0\Ejercicios\Ejercicio10\Ejercicio10\obj\Debug\Ejercicio10.pdb

@@ -1,0 +1,14 @@
+C:\Users\dam215\Desktop\CURSO 2017-2018\ACDA\Unidad0\Ejercicios\Ejercicio9\Ejercicio5\bin\Debug\Ejercicio5.exe.config
+C:\Users\dam215\Desktop\CURSO 2017-2018\ACDA\Unidad0\Ejercicios\Ejercicio9\Ejercicio5\bin\Debug\Ejercicio5.exe
+C:\Users\dam215\Desktop\CURSO 2017-2018\ACDA\Unidad0\Ejercicios\Ejercicio9\Ejercicio5\bin\Debug\Ejercicio5.pdb
+C:\Users\dam215\Desktop\CURSO 2017-2018\ACDA\Unidad0\Ejercicios\Ejercicio9\Ejercicio5\obj\Debug\Ejercicio5.csprojResolveAssemblyReference.cache
+C:\Users\dam215\Desktop\CURSO 2017-2018\ACDA\Unidad0\Ejercicios\Ejercicio9\Ejercicio5\obj\Debug\Ejercicio5.csproj.CoreCompileInputs.cache
+C:\Users\dam215\Desktop\CURSO 2017-2018\ACDA\Unidad0\Ejercicios\Ejercicio9\Ejercicio5\obj\Debug\Ejercicio5.exe
+C:\Users\dam215\Desktop\CURSO 2017-2018\ACDA\Unidad0\Ejercicios\Ejercicio9\Ejercicio5\obj\Debug\Ejercicio5.pdb
+D:\Mio\CURSO\instituto\DAM\2DAM\ACDA\Unidad0\Ejercicios\Ejercicio9\Ejercicio5\bin\Debug\Ejercicio5.exe.config
+D:\Mio\CURSO\instituto\DAM\2DAM\ACDA\Unidad0\Ejercicios\Ejercicio9\Ejercicio5\bin\Debug\Ejercicio5.exe
+D:\Mio\CURSO\instituto\DAM\2DAM\ACDA\Unidad0\Ejercicios\Ejercicio9\Ejercicio5\bin\Debug\Ejercicio5.pdb
+D:\Mio\CURSO\instituto\DAM\2DAM\ACDA\Unidad0\Ejercicios\Ejercicio9\Ejercicio5\obj\Debug\Ejercicio5.csprojResolveAssemblyReference.cache
+D:\Mio\CURSO\instituto\DAM\2DAM\ACDA\Unidad0\Ejercicios\Ejercicio9\Ejercicio5\obj\Debug\Ejercicio5.csproj.CoreCompileInputs.cache
+D:\Mio\CURSO\instituto\DAM\2DAM\ACDA\Unidad0\Ejercicios\Ejercicio9\Ejercicio5\obj\Debug\Ejercicio5.exe
+D:\Mio\CURSO\instituto\DAM\2DAM\ACDA\Unidad0\Ejercicios\Ejercicio9\Ejercicio5\obj\Debug\Ejercicio5.pdb

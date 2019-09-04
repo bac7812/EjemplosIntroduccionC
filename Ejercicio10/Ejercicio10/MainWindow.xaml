@@ -1,0 +1,37 @@
+﻿<Window x:Name="MaquinaCambio" x:Class="Ejercicio10.MainWindow"
+        xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"
+        xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"
+        xmlns:d="http://schemas.microsoft.com/expression/blend/2008"
+        xmlns:mc="http://schemas.openxmlformats.org/markup-compatibility/2006"
+        xmlns:local="clr-namespace:Ejercicio10"
+        mc:Ignorable="d"
+        Title="Maquina de cambio" Height="250" Width="570">
+    <Grid>
+        <DataGrid x:Name="CambioDataGrid" HorizontalAlignment="Left" Height="160" Margin="386,26,0,0" VerticalAlignment="Top" Width="130"/>
+        <DataGrid x:Name="SaldoDataGrid" HorizontalAlignment="Left" Height="160" Margin="202,26,0,0" VerticalAlignment="Top" Width="140" />
+        <ComboBox x:Name="MonedasCantidadComboBox" HorizontalAlignment="Left" Margin="10,25,0,0" VerticalAlignment="Top" Width="70">
+            <ComboBoxItem Content="2€" IsSelected="True"/>
+            <ComboBoxItem Content="1€"/>
+            <ComboBoxItem Content="50Cts"/>
+            <ComboBoxItem Content="20Cts"/>
+            <ComboBoxItem Content="10Cts"/>
+            <ComboBoxItem Content="5Cts"/>
+        </ComboBox>
+        <Button x:Name="BotonSuma" Content="+" HorizontalAlignment="Left" Margin="100,26,0,0" VerticalAlignment="Top" Width="30" Click="BotonSuma_Click"/>
+        <Button x:Name="BotonResta" Content="-" HorizontalAlignment="Left" Margin="148,26,0,0" VerticalAlignment="Top" Width="30" Click="BotonResta_Click"/>
+        <ComboBox x:Name="MonedasCambioComboBox" HorizontalAlignment="Left" Margin="10,67,0,0" VerticalAlignment="Top" Width="70">
+            <ComboBoxItem Content="2€" IsSelected="True"/>
+            <ComboBoxItem Content="1€"/>
+            <ComboBoxItem Content="50Cts"/>
+            <ComboBoxItem Content="20Cts"/>
+            <ComboBoxItem Content="10Cts"/>
+            <ComboBoxItem Content="5Cts"/>
+        </ComboBox>
+        <Button x:Name="BotonSaldo" Content="Saldo" HorizontalAlignment="Left" Margin="10,147,0,0" VerticalAlignment="Top" Width="75" RenderTransformOrigin="-1.627,-2.4" Click="BotonSaldo_Click"/>
+        <Button x:Name="BotonCambiar" Content="Cambiar" HorizontalAlignment="Left" Margin="103,69,0,0" VerticalAlignment="Top" Width="75" Click="BotonCambiar_Click"/>
+        <TextBlock x:Name="TextBlockSaldo" HorizontalAlignment="Left" Margin="103,149,0,0" TextWrapping="Wrap" VerticalAlignment="Top" Text="Total: 0"/>
+        <TextBlock x:Name="SaldoTextBlock" HorizontalAlignment="Left" Margin="202,5,0,0" TextWrapping="Wrap" Text="Saldo" VerticalAlignment="Top"/>
+        <TextBlock x:Name="CambioTextBlock" HorizontalAlignment="Left" Margin="386,5,0,0" TextWrapping="Wrap" Text="Cambio" VerticalAlignment="Top"/>
+
+    </Grid>
+</Window>
